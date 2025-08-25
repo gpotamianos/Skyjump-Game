@@ -50,8 +50,8 @@ g++ -std=c++17 -o Unclebenskyjump main.cpp -lsgg
 ./Unclebenskyjump
 ```
 
-![alt text](Screenshot1.png)
+![alt text](Screenshot1-1.png)
 
 ---
 
-![alt text](Screenshot2.png)
+![alt text](Screenshot2-1.png)
