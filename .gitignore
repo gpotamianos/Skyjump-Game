@@ -12,8 +12,8 @@
 !bin/
 !bin/**
 !README.md
-!Screenshot1.png
-!Screenshot2.png
+!*.png
+!*.jpg
 
 # Extra ignores
 .vs/
