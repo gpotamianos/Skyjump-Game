@@ -9,8 +9,11 @@
 !Unclebenskyjump/**
 !include/
 !include/**
-!bin/S
+!bin/
 !bin/**
+!README.md
+!Screenshot1png
+!Screenshot2png
 
 # Extra ignores
 .vs/
