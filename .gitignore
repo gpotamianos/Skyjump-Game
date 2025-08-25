@@ -1,19 +1,19 @@
-@'
-# Αγνόησε τα πάντα
+@"
+# Ignore everything by default
 *
 
-# Κράτα αυτά (και τα περιεχόμενά τους)
+# Keep these (and their contents)
 !.gitignore
 !Unclebenskyjump.sln
 !Unclebenskyjump/**
 !include/**
 !bin/**
 
-# Extra ignores (αν χρειάζονται)
+# Extra ignores
 .vs/
 lib/
 x64/
 *.user
 *.log
 *.opendb
-'@ | Set-Content -NoNewline .gitignore
+"@ | Set-Content -Encoding ASCII .gitignore
