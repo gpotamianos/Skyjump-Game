@@ -5,8 +5,11 @@
 # Keep these (and their contents)
 !.gitignore
 !Unclebenskyjump.sln
+!Unclebenskyjump/
 !Unclebenskyjump/**
+!include/
 !include/**
+!bin/S
 !bin/**
 
 # Extra ignores
@@ -17,3 +20,6 @@ x64/
 *.log
 *.opendb
 "@ | Set-Content -Encoding ASCII .gitignore
+
+# Έλεγξε το περιεχόμενο:
+type .gitignore
