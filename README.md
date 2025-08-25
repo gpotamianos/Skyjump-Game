@@ -2,7 +2,7 @@
 
 A simple variation of an old-school platformer developed in **C++** using the **SGG (Simple Game Graphics) Library**. It is a single-player game, where the player must climb platforms, avoid enemies, and reach the goal to win.
 
----
+
 
 ## Description
 - The project is a 2-level vertical platformer.
@@ -10,7 +10,6 @@ A simple variation of an old-school platformer developed in **C++** using the **
 - **Level 2:** Dodge UFOs and hazards, then reach the Moon to win.
 - Background music and debug options are included.
 
----
 
 ## Rules
 - Press **SPACE** to start the game.
@@ -23,13 +22,12 @@ A simple variation of an old-school platformer developed in **C++** using the **
 - Press **Q** to exit after Win/Lose.
 - Press **0** to toggle debug overlay.
 
----
 
 ## Install Dependencies
 Ensure you have the **SGG (Simple Game Graphics) Library** installed on your system.  
 Follow the instructions on the SGG library website for installation.
 
----
+
 ## How to Run
 
 To run this Uncle Ben SkyJump project, follow these steps:
